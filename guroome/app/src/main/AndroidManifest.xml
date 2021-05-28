@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.guroome.appdev">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".completeActivity"
+            android:noHistory="true"></activity>
+        <activity android:name=".paymentActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTwentytwoActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTwentyoneActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTwentyActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectNineteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectEighteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectSeventeenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectSixteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectFifteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectFourteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectThirteenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTwelveActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectElevenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectNineActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectEightActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectSevenActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectSixActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectFiveActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectFourActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectThreeActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectTwoActivity"
+            android:noHistory="true"/>
+        <activity android:name=".SelectOneActivity"
+            android:noHistory="true"/>
+        <activity
+            android:name=".RealElevenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealTenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealNineActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealEightActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealSevenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealSixActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealFiveActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealFourActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealThreeActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealTwoActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".RealOneActivity"
+            android:noHistory="true" />
+        <activity android:name=".TwentySixActivity" />
+        <activity
+            android:name=".TwentyFiveActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwentyFourActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwentyThreeActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwentyTwoActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwentyOneActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwentyActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".NineteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".EighteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".SeventeenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".SixteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".FifteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".FourteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".ThirteenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TwelveActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".ElevenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".TenActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".NineActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".EightActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".SeventhActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".SixthActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".FifthActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".FourthActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".ThirdActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".NextActivity"
+            android:noHistory="true" />
+        <activity
+            android:name=".MainActivity"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
